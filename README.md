@@ -1,5 +1,5 @@
 # AppDynamics Azure Site Extension Manager
-AppDynamicd Azure Site Extension Manager is a powershell script to manage AppDynamics .NET agent installation on Azure WebApps. Manual installation steps are explained in folllowing document- 
+AppDynamics Azure Site Extension Manager is a powershell script to manage AppDynamics .NET agent installation on Azure WebApps. Manual installation steps are explained in folllowing document- 
 https://docs.appdynamics.com/display/PRO43/Install+the+AppDynamics+Azure+Site+Extension
 
 This script makes use of azure powershell cmdlets and kudu rest api. It provides an easy way to manage AppD Azure site extension. Presently the script supports following operations- 
