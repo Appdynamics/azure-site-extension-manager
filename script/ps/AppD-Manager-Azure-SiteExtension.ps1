@@ -45,10 +45,10 @@ $global:SlotName = ""
 ## -SubscriptioName as parameter or assign here
 $global:SubscriptionName = ""
 
-$global:AppDAgentID = "AppDynamics.WindowsAzure.SiteExtension.4.4.Release"
+$global:AppDAgentID = "AppDynamics.WindowsAzure.SiteExtension.4.5.Release"
 ##  We can use different agent id to install different agent versions. 
-##  4.3 controllers should use the 4.3 agent
-##                    "AppDynamics.WindowsAzure.SiteExtension.4.3.Release"
+##  4.3 controllers should use the 4.4 agent
+##                    "AppDynamics.WindowsAzure.SiteExtension.4.4.Release"
 
 ##  AppDynamics agent configuration properties. 
 ##  Check "Configure the agent using environment variables" in following doc-
